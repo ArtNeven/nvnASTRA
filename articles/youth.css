@@ -66,3 +66,20 @@ a{color:inherit}
 .afoot .slogan .hl{color:var(--gold)}
 .afoot .all{display:inline-block;margin-top:18px;font-family:var(--cond);font-weight:700;font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;color:#fff;text-decoration:none;border-bottom:2px solid var(--gold);padding-bottom:2px}
 .afoot .note{margin-top:18px;font-size:.78rem;color:#bcd2f0}
+
+/* === ASTRA DARK THEME === */
+body{background:#0d1933;color:#e8f0ff}
+.masthead{background:rgba(8,18,34,.95);border-bottom-color:rgba(255,255,255,.1)}
+.masthead .mark{background:#f0a820;color:#0d1933}
+.masthead .name{color:#e8f0ff}
+.masthead .for{color:#f0a820;border-left-color:rgba(255,255,255,.12)}
+.masthead .back{color:#c0d0e8}
+.ahero{background:#081222}
+.ahero::after{display:none}
+.abody p{color:#c0d0e8}
+.abody p:first-child::first-letter{color:#f0a820}
+.next{border-top-color:rgba(255,255,255,.1)}
+.next .lbl{color:#8aa6cc}
+.next a .t{color:#e8f0ff}
+.next a:hover .t{color:#f0a820}
+.afoot{background:#081222}
