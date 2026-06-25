@@ -79,7 +79,7 @@ body{background:#0d1933;color:#e8f0ff}
 .abody p{color:#c0d0e8}
 .abody p:first-child::first-letter{color:#f0a820}
 .next{border-top-color:rgba(255,255,255,.1)}
-.next .lbl{color:#8aa6cc}
+.next .lbl{color:#b0c8e0}
 .next a .t{color:#e8f0ff}
 .next a:hover .t{color:#f0a820}
 .afoot{background:#081222}
